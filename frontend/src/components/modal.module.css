@@ -1,0 +1,29 @@
+.titleBar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 15%;
+}
+
+.title {
+  font-size: 1.7rem;
+  font-weight: bold;
+  color: #444444;
+}
+
+.geral {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 75%;
+}
+
+.footerActions {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.errMsg {
+  color: #c64f1d;
+}

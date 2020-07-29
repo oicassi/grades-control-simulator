@@ -1,0 +1,15 @@
+.flexRow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25vh;
+}
+
+.textInfoContainer {
+    margin-top: 25px;
+}
+.textInfo {
+    color: #666;
+    font-size: 1.5rem;
+}

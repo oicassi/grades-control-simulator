@@ -1,0 +1,31 @@
+.singleHead {
+    text-align: center;
+}
+
+.goodGrade {
+    color: #333333;
+    background-color: #77dfa1;
+    font-weight: bold;
+    text-align: center;
+}
+
+.badGrade {
+    color: #333333;
+    background-color: #f48252;
+    font-weight: bold;
+    text-align: center;
+}
+
+.singleTable {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 2% 0 2%;
+    box-shadow: 0px 0px 2px lightgray;
+}
+
+.actionContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
